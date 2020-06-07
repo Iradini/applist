@@ -4,7 +4,6 @@ bs4==0.0.1
 certifi==2020.4.5.1
 chardet==3.0.4
 django~=3.0.6
-Django @ file:///D:/bld/django_1588599302798/work
 idna==2.9
 pytz==2020.1
 requests~=2.22.0
