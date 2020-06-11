@@ -1,1 +1,1 @@
-web: gunicorn listapp.wsgi
+web: gunicorn applist.wsgi
